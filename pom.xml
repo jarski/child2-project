@@ -5,7 +5,7 @@
   <parent>
     <artifactId>parent-project</artifactId>
     <groupId>net.jarski</groupId>
-    <version>1.0.0</version>
+    <version>1.0.4-SNAPSHOT</version>
   </parent>
 
   <groupId>net.jarski</groupId>
